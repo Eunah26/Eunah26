@@ -2,7 +2,7 @@
 
 I am a **First Class Honours BSc (Hons) Computer Science & Network Security** graduate (University of Technology Mauritius, awaiting formal graduation) with a unique foundation combining software engineering, AI workflow automation, and quantitative accounting principles. 
 
-I enjoy building practical, data-accurate applications—from full-stack web interfaces to automated Python and LLM pipelines—and I am always eager to learn new frameworks and engineering best practices.
+I enjoy building practical, data-accurate applications from full-stack web interfaces to automated Python and LLM pipelines, and I am always eager to learn new frameworks and engineering best practices.
 
 ---
 
@@ -25,10 +25,10 @@ I enjoy building practical, data-accurate applications—from full-stack web int
 
 ### 💻 Featured Projects
 
-* **[D-Stokvel](https://github.com)** *(Capstone Project)* — A decentralized peer-to-peer communal savings platform built with **React, Tailwind CSS, Supabase, and PostgreSQL**. Applies accounting ledger logic and strict database validation to prevent manual errors and ensure transparent contribution tracking.
-* **[RentSphere](https://github.com)** *(In Progress)* — A full-stack multi-tenant property management SaaS web application built with **React and TypeScript**, integrating programmatic structures to track tenant and landlord transparency metrics.
-* **[ResQ-Shield](https://github.com)** *(In Progress)* — An IoT-integrated personal safety ecosystem powered by **Python** backend pipelines and real-time location APIs to process sensor feeds and trigger instant distress alerts.
-* **[HabitLoop](https://github.com)** — A mobile habit-tracking application built with **Flutter and SQLite**, featuring photo verification and local state management.
+* **[D-Stokvel]** *(Capstone Project)* — A decentralized peer-to-peer communal savings platform built with **React, Tailwind CSS, Supabase, and PostgreSQL**. Applies accounting ledger logic and strict database validation to prevent manual errors and ensure transparent contribution tracking.
+* **[RentSphere]** *(In Progress)* — A full-stack multi-tenant property management SaaS web application built with **React and TypeScript**, integrating programmatic structures to track tenant and landlord transparency metrics.
+* **[ResQ-Shield]** *(In Progress)* — An IoT-integrated personal safety ecosystem powered by **Python** backend pipelines and real-time location APIs to process sensor feeds and trigger instant distress alerts.
+* **[HabitLoop]** — A mobile habit-tracking application built with **Flutter and SQLite**, featuring photo verification and local state management.
 
 ---
 
